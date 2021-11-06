@@ -1,0 +1,25 @@
+{
+  "name": "mysite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joacosoler/proyecto-Pagina-web-Coder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joacosoler/proyecto-Pagina-web-Coder/issues"
+  },
+  "homepage": "https://github.com/Joacosoler/proyecto-Pagina-web-Coder#readme",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  },
+  "dependencies": {
+    "sass": "^1.43.4"
+  }
+}
