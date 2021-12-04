@@ -1,0 +1,32 @@
+
+table { 
+    background-color: $greenprincipal;
+    border: 2px solid;
+    color: white;
+    text-align: center;
+    padding:1rem;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+    list-style-position: outside;
+    align-content: center;
+    display:flexbox;
+    flex-direction:unset;
+    justify-content: space-around; 
+}
+    td,th {
+    border: 2px solid white;
+    flex:1;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px; 
+    padding-bottom: 10px;  
+    }
+    /* mapa */
+.mapa{
+text-align: center;
+}
+.maps{
+margin-left: auto;
+margin-right: auto;
+display: block;
+}

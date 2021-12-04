@@ -15,11 +15,11 @@
     "url": "https://github.com/Joacosoler/proyecto-Pagina-web-Coder/issues"
   },
   "homepage": "https://github.com/Joacosoler/proyecto-Pagina-web-Coder#readme",
-  "description": "",
   "devDependencies": {
     "nodemon": "^2.0.14"
   },
   "dependencies": {
     "sass": "^1.43.4"
-  }
+  },
+  "description": ""
 }
